@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Local Google OAuth credentials and generated access tokens
+credentials.json
+credentials.json.json
+token.json
